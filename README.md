@@ -7,6 +7,6 @@ This repository contains a data mining project focused on classifying mushrooms 
 - Model training with multiple algorithms
 - Performance evaluation using accuracy, precision, recall, and F1-score
 
-Authors: Matteo Greco, Vincenzo Presta
+Authors: Matteo Greco, Vincenzo Presta.
 
 Explore the notebook to see the full workflow and results.
