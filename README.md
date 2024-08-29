@@ -3,9 +3,9 @@ This repository contains a data mining project focused on classifying mushrooms 
 
 Key Features:
 
-    Data exploration and preprocessing
-    Model training with multiple algorithms
-    Performance evaluation using accuracy, precision, recall, and F1-score
+- Data exploration and preprocessing
+- Model training with multiple algorithms
+- Performance evaluation using accuracy, precision, recall, and F1-score
 
 Authors: Matteo Greco, Vincenzo Presta
 
